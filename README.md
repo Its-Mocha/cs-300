@@ -1,0 +1,5 @@
+What was the problem you were solving in the projects for this course? I was solving how to make a code the prints out courses ,thier ids as welll as any prereq's
+How did you approach the problem? Consider why data structures are important to understand. I had a lot of problems in these projects and milestones. I understand that data structures are importen for storing and sorting infomation.
+How did you overcome any roadblocks you encountered while going through the activities or project? All the roadblocks I seeked help from my profecor and any tutor that was avalable. 
+How has your work on this project expanded your approach to designing software and developing programs? I understand the importence of psydocode and designing software from that. that will help with bugs and making a project easier to code.
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable? I think its help me learn more, I do think even this code can be improved to help with these catigorys. 
